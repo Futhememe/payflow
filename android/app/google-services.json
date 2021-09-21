@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "825858830016",
+    "project_id": "payflow-vogus",
+    "storage_bucket": "payflow-vogus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825858830016:android:47bead779bd231ef3c0725",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825858830016-govsq2ogffo63sfof6lcp938ntdnrh9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "dfc7de5569bcb1c0a81aa87b411dde8632da6a6b"
+          }
+        },
+        {
+          "client_id": "825858830016-lven20u9jv8j8u49hnmfbkthim27f1st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA32yz0w8aRwd7DpHUj5u0v6E1aBFmrqyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825858830016-lven20u9jv8j8u49hnmfbkthim27f1st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
